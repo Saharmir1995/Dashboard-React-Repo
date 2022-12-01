@@ -1,0 +1,17 @@
+.total__width {
+    width: 100%;
+}
+
+.index__absolute {
+    position: absolute;
+    left: 250px;
+    top: 40px;
+    z-index: 1;
+
+}
+
+@media only screen and (max-width : 1024px) {
+    .index__absolute {
+        left: 130px;
+    }
+}

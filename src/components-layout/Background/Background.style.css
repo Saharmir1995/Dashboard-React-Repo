@@ -1,0 +1,13 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    width: 100%;
+    object-fit: cover;
+    display: block;
+    position: fixed;
+    top: 0;
+}
